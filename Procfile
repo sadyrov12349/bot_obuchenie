@@ -1,1 +1,0 @@
-worker: python Obuchenie_lombard.py
